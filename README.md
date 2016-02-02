@@ -1,6 +1,6 @@
-This is the repository for my <b>Predicting Privilege with Python: Do Millennials Make the Grade?</b> Talk.
+This is the repository for my <b>Predicting Privilege with Python: Do Millennials Make the Grade?</b> Talk. Unfortunately, I cannot upload the dataset that I used but it is a good start for how to turn txt files into pandas dataframes and manipulate them in order to analyze and answer a question. 
 
-You can see the code I used for the presentation and see how to get stated with Pandas, Matplotlib, wordclouds, and Sentiment Analysis in Python.
+ere you can see the code I used for the presentation and see how to get stated with Pandas, Matplotlib, wordclouds, and Sentiment Analysis in Python.
 
 You can also download code for my <b>Sentiment Analysis GUI.</b> 
 
