@@ -6,7 +6,7 @@ You can also download code for my <b>Sentiment Analysis GUI.</b>
 
 <b>To learn more about data science in Python here are some resources:</b>
 
--My blog -www.Microheather.com 
+-My blog post about this topic: http:/aka.ms/predictingprivilege
 
 -Data Sets: data.gov, yhat.com, kaggle 
 
