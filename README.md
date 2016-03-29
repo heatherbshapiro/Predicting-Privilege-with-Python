@@ -1,6 +1,6 @@
 This is the repository for my <b>Predicting Privilege with Python: Do Millennials Make the Grade?</b> Talk. Unfortunately, I cannot upload the dataset that I used but it is a good start for how to turn txt files into pandas dataframes and manipulate them in order to analyze and answer a question. 
 
-The slides for the Millenials R Coming version can be found at http://www.slideshare.net/HeatherShapiro/the-millennials-r-coming.
+The slides for the <b>Millenials R Coming</b> version can be found at http://www.slideshare.net/HeatherShapiro/the-millennials-r-coming.
 
 Here you can see the code I used for the presentation and see how to get stated with Pandas, Matplotlib, wordclouds, and Sentiment Analysis in Python.
 
